@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/pages/">
+    <File Path="login_page.py" />
+  </Folder>
+  <Folder Name="/tests/">
+    <File Path="test_login.py" />
+  </Folder>
+  <Project Path="PythonApplication3/PythonApplication3.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="c4220f4b-8d20-44f5-8bf1-9fb89edbaef0">
+    <Build Project="false" />
+  </Project>
+</Solution>
